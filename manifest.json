@@ -1,8 +1,8 @@
 {
-  "name": "Юля учит Турецкий",
-  "short_name": "Юля",
+  "name": "Карточки",
+  "short_name": "Карточки",
   "description": "Карточки для изучения турецких слов",
-  "start_url": "yulya.html",
+  "start_url": "/Turkcards/index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f8f4ef",
